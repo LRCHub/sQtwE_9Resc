@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "JOINT",
+  "base_artist": "Mami Kawada",
+  "createdAt": "2026-03-10T12:25:27.915331Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Honkiest Tonkiest Beer Joint",
+      "artist": "Dale Watson",
+      "has_synced": true,
+      "path": "select/01_Honkiest_Tonkiest_Beer_Joint_Dale_Watson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Old School Joint",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/02_Old_School_Joint_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Reggae Joint",
+      "artist": "The 2 Live Crew",
+      "has_synced": true,
+      "path": "select/03_Reggae_Joint_The_2_Live_Crew.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jehovah Made This Whole Joint For You",
+      "artist": "New Radicals",
+      "has_synced": true,
+      "path": "select/04_Jehovah_Made_This_Whole_Joint_For_You_New_Radicals.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Park Joint",
+      "artist": "Camp Lo",
+      "has_synced": false,
+      "path": "select/05_Park_Joint_Camp_Lo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Roc Marciano Joint",
+      "artist": "Das Racist feat. Roc Marciano",
+      "has_synced": false,
+      "path": "select/06_Roc_Marciano_Joint_Das_Racist_feat._Roc_Marciano.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Spanish Joint",
+      "artist": "D'Angelo",
+      "has_synced": false,
+      "path": "select/07_Spanish_Joint_D'Angelo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Roll This Joint",
+      "artist": "Quiet Riot",
+      "has_synced": false,
+      "path": "select/08_Roll_This_Joint_Quiet_Riot.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Transitional Joint",
+      "artist": "Elzhi",
+      "has_synced": true,
+      "path": "select/09_Transitional_Joint_Elzhi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Percocet & Stripper Joint",
+      "artist": "Future",
+      "has_synced": true,
+      "path": "select/10_The_Percocet_&_Stripper_Joint_Future.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Joint 2 Joint",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/11_Joint_2_Joint_Prince.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "James Joint",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/12_James_Joint_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rip This Joint",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/13_Rip_This_Joint_The_Rolling_Stones.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rip This Joint",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/14_Rip_This_Joint_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rock This Joint",
+      "artist": "Alannah Myles",
+      "has_synced": true,
+      "path": "select/15_Rock_This_Joint_Alannah_Myles.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "My Hatin Joint",
+      "artist": "ScHoolboy Q",
+      "has_synced": true,
+      "path": "select/16_My_Hatin_Joint_ScHoolboy_Q.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "That's The Joint",
+      "artist": "Black Eyed Peas",
+      "has_synced": false,
+      "path": "select/17_That's_The_Joint_Black_Eyed_Peas.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "That’s the Joint",
+      "artist": "Black Eyed Peas",
+      "has_synced": false,
+      "path": "select/18_That’s_the_Joint_Black_Eyed_Peas.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sister's Coming Home/Down At The Corner Beer Joint",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/19_Sister's_Coming_Home_Down_At_The_Corner_Beer_Joint_Willie_Nelson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JOINT",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_01_JOINT_川田_まみ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "JOINT",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_02_JOINT_川田_まみ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "JOINT",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_03_JOINT_川田_まみ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "JOINT",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_04_JOINT_川田_まみ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "JOINT",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_05_JOINT_川田_まみ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "JOINT",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_06_JOINT_川田_まみ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "JOINT",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_07_JOINT_川田_まみ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "JOINT",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_08_JOINT_川田_まみ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "JOINT",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_09_JOINT_川田_まみ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "JOINT",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_10_JOINT_川田_まみ.txt"
+    }
+  ]
+}
